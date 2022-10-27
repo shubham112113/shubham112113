@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham112113&label=Profile%20views&color=0e75b6&style=flat" alt="shubham112113" /> </p>
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham112113" alt="shubham112113" /></a></p>
+
 - 🔭 I’m currently working on [Book cover](https://www.canva.com/design/DAFQJGsy1lc/Zs8n_wRLB9EujTVjboD0Rg/edit)
 
-- 📫 How to reach me **113shubham.kushwaha@gmail.com**
+- 📫 How to reach me **113shubham.kushwaha+Github@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+![Shubham Kushwaha's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubham112113&theme=react-dark&hide_border=true&area=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham112113&layout=compact&theme=jolly)](https://github.com/shubham112113/shubham112113)
 &nbsp;
